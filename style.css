@@ -1,0 +1,183 @@
+
+.a {
+    font-family: medium-content-sans-serif-font, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+/* bootstrap css değişiklikleri */
+.navbar {
+    padding: 0;;
+}
+
+header {
+    background-color: #FFC017;
+    padding: 12.5px 0px;
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+header .ms-auto a {
+    font:  14px sohne, "Helvatica Neue";
+    color: rgba(41, 41, 41, 1) !important;
+    margin-left: 8px;
+    font-weight: 400;
+    letter-spacing: 0.02rem;
+}
+
+.btn {
+    border: none;
+}
+.rounded-p {
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+    line-height: normal;
+}
+.rounded-p  small {
+    color: azure;   
+}
+.rounded-p2 {
+    padding-right: 2rem !important;
+    padding-left: 2rem !important;
+    line-height: normal;
+}
+.section-top {
+    margin-top: 75px;
+    background-color: #FFC017;
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+.section-top a {
+    font:  20px sohne, "Helvatica Neue";
+    color: azure;
+    margin-left: 8px;
+    font-weight: 400;
+    letter-spacing: 0.02rem;
+}
+.stay-crs {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+.discover-p {
+    font-size: 24px;
+}
+.img-right {
+    float: right;
+    opacity: 0.6;
+    padding: 93px 0 92px 0;
+}
+.section-top-buttom {
+    padding: 40px 0 16px 0;
+}
+.section-top-padding {
+    padding: 93px 0 92px 0;
+}
+.trend-icon {
+    color: black;
+    float: left;
+    margin-right: 10px;
+    padding-top: 4px;
+}
+.ac-circle {
+    width: 20px;
+    height: 20px;
+}
+.t01 span {
+    color: rgba(230, 230, 230, 1);
+    line-height: 36px;
+    font-size: 30px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+.ac-padding {
+    padding: 4px 0 0 25px;
+}
+.andre-h4 {
+    font-size: 13px;
+    max-height: 16px;
+    line-height: 16px;
+    font-weight: 500;
+    color: rgba(41, 41, 41, 1);
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: inline-block;
+    margin-left: 8px;
+}
+.a-the-rise {
+    text-decoration: none;
+    color: rgba(0,0,0,0.8);
+}
+.a-the-rise h2 {
+    max-height: 40px;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    font-family: medium-content-sans-serif-font, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    margin-top: 8px;
+}
+.time-read {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 20px;
+    font-weight: 400;
+    font-size: 13px;
+    color: rgba(117, 117, 117, 1);
+    float: left;
+}
+.span-flag-i {
+    float: right;
+}
+
+/* section End styles */
+.section-end {
+    padding-top: 40px;
+}
+.section-end article:first-child {
+    padding-top: 0;
+}
+.section-end article {
+    padding-top: 40px;
+}
+
+/* Aside styles */
+
+.dm-of-text {
+    text-transform: uppercase;
+    letter-spacing: 0.083em;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 700;
+    color: rgba(41, 41, 41, 1);
+}
+ul.aside-button-list {
+    padding: 0;
+}
+.aside-button-list li {
+    border: 1px solid rgba(230, 230, 230, 1);
+    margin: 0 0px 8px 0;
+    padding: 0.175rem 0.5rem;
+}
+.aside-button-list li button {
+    font-size: 13px;
+    line-height: 20px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: rgba(117, 117, 117, 1);
+}
+.hr{
+    padding: 20px 0;
+}
+.hr>hr{
+    color: rgb(189, 187, 187);
+}
+ul.aside-button-list-buttom {
+    overflow: hidden;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+ul.aside-button-list-buttom li {
+    float: left;
+}
+ul.aside-button-list-buttom li a {
+    display: block;
+    padding:6px 8px;
+    text-decoration: none;
+    color: rgba(117, 117, 117, 1);
+    font-size: 14px;
+    line-height: 20px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
